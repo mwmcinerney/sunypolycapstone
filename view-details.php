@@ -1,0 +1,1 @@
+<div class="wrapper2"><h2>CHOOSE OPTION TO VIEW DETAILS</h2></div>
